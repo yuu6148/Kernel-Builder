@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Android_V_Kernel_Xiaomi_Sdm845",
+      "name": "Android_OriginOS_U_Kernel_Xiaomi_Sdm845",
       "repo": "https://github.com/LuoxueQWQ/kernel_xiaomi_sdm845",
       "branch": "android-v",
       "device": "polaris",
