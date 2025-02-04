@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Kernel_Xiaomi_Sdm845",
-      "repo": "https://github.com/LuoxueQWQ/kernel_xiaomi_sdm845",
-      "branch": "android-v",
+      "repo": "https://github.com/yuu6148/NGK_android_kernel_xiaomi_sdm845",
+      "branch": "t-caf-latest",
       "device": "beryllium",
       "defconfig": "nogravity_defconfig"
     },
