@@ -5,7 +5,7 @@
       "repo": "https://github.com/yuu6148/kernel_xiaomi_sdm845",
       "branch": "android-v",
       "device": "beryllium",
-      "defconfig": "nogravity-polaris_defconfig"
+      "defconfig": "nogravity_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
