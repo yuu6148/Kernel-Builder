@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "Android_OriginOS_U_Kernel_Xiaomi_Sdm845",
-      "repo": "https://github.com/LuoxueQWQ/kernel_xiaomi_sdm845",
+      "name": "Kernel_Xiaomi_Sdm845",
+      "repo": "https://github.com/yuu6148/kernel_xiaomi_sdm845",
       "branch": "android-v",
-      "device": "polaris",
+      "device": "beryllium",
       "defconfig": "nogravity-polaris_defconfig"
     },
     "withKernelSU": false,
