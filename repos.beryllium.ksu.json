@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Kernel_Xiaomi_Sdm845",
+      "name": "Kernel_Xiaomi_Sdm845_ksu",
       "repo": "https://github.com/yuu6148/kernel_xiaomi_sdm845",
       "branch": "android-v",
       "device": "beryllium",
