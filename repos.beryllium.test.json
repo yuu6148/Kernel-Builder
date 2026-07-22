@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Kernel_Xiaomi_Sdm845_ksu",
-      "repo": "https://github.com/jzc233/kernel_xiaomi_sdm845_bpf",
-      "branch": "A15",
+      "repo": "https://github.com/LXJ200625/kernel_xiaomi_dipper_bpf5.4",
+      "branch": "bpf-5.4",
       "device": "beryllium",
       "defconfig": "nogravity_defconfig"
     },
